@@ -19,7 +19,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  * @Date 2022-08-29 21:00:58
  * @Wechat zhuoda1024
  * @Email lab1024@163.com
- * @Copyright  <a href="https://1024lab.net">1024创新实验室</a>
+ * @Copyright  <a href="https://1024lab.net">1024创 新实验室</a>
  */
 @EnableCaching
 @EnableScheduling
